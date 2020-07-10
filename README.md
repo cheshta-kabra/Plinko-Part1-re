@@ -1,2 +1,2 @@
-# Plinko-Part1-re
-(correct project)
+# p5.play-boilerplate
+Boiler plate for p5.play
